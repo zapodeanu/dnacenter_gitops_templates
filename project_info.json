@@ -1,0 +1,8 @@
+{
+  "project_name": "GitOps_Project",
+  "templates":
+    {
+      "t2": "csr_updates",
+      "t5": "access_switches_updates"
+    }
+}
