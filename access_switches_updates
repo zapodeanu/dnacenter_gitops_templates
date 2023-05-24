@@ -4,4 +4,4 @@ logging host {{ SplunkServer }} transport udp port {{ port }}
 !
 service timestamps debug datetime localtime
 service timestamps log datetime localtime
-  
+!
