@@ -2,8 +2,8 @@
   "project_name": "GitOps_Project",
   "templates":
     {
-      "t2": "csr_updates",
-      "t5": "access_switches_updates",
-      "t3": "core_switches_updates"
+      "t2": "csr_snmp_ntp",
+      "t5": "switches_logging",
+      "t3": "switches_aaa"
     }
 }
