@@ -2,6 +2,6 @@
 no snmp-server host 10.93.135.30 version 2c RO
 no snmp-server host 10.93.130.50 version 2c RW
 !
-no ntp server 171.68.48.78
+ntp server 171.68.48.78
 ntp server 171.68.48.79
 !
