@@ -3,7 +3,6 @@
   "templates":
     {
       "t2": "csr_snmp_ntp",
-      "t5": "switches_logging",
-      "t3": "switches_aaa"
+      "t5": "switches_logging"
     }
 }
